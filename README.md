@@ -1,2 +1,2 @@
 # Registry
-Registry Tweaks
+Registry tweaks
